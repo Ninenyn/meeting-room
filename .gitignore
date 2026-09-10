@@ -6,4 +6,5 @@ dist/
 .local/
 coverage/
 *.tsbuildinfo
-.vercel
+.agents/
+skills-lock.json
